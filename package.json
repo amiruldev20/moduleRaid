@@ -1,5 +1,5 @@
 {
-  "name": "moduleraid",
+  "name": "@amiruldev/moduleraid",
   "version": "5.0.2",
   "description": "Get modules from webpack v5",
   "main": "moduleraid.js",
